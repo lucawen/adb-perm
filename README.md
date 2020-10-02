@@ -7,7 +7,7 @@ When i disabled the "MIUI Features" from my phone, all permissions of all applic
 
 
 ### Documentation
-You need to have adb and aapt installed in your system to this work.
+You need to have adb and aapt installed in your system to this work. The script itself dont need any extra pip library.
 
 Connect you device to you system and enable usb debugging mode.
 
